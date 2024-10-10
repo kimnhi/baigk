@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566276889189",
+    "project_id": "bai-gk",
+    "storage_bucket": "bai-gk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566276889189:android:b33d971a8c8a937af0848c",
+        "android_client_info": {
+          "package_name": "com.example.bai_gk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaRZFeIh89FgT_HSn9PQSTzz21IDu3Tek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
